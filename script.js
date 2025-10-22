@@ -1,0 +1,1 @@
+console.log('AztecasRP v6 loaded');
